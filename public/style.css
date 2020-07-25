@@ -1,0 +1,28 @@
+.btn{
+    background-color: lightslategrey;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    font-weight: 800;
+    color: mintcream;
+}
+
+.btn2{
+    background-color: cornflowerblue;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    font-weight: 600;
+    color: darkgoldenrod;
+}
+
+li{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
